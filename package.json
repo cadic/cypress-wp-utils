@@ -1,5 +1,5 @@
 {
-  "name": "@10up/cypress-wp-utils",
+  "name": "@cadic/cypress-wp-utils",
   "version": "0.1.0",
   "description": "Cypress command utilities for testing WordPress",
   "main": "./lib/index.js",
